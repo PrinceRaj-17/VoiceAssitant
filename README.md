@@ -2,7 +2,7 @@
 
 A Simple and very limited Voice Assistant.
 
-# Functions
+Functions:-
 
 1) It has Wake up call "hi tony"
 
@@ -12,7 +12,7 @@ A Simple and very limited Voice Assistant.
 
 I'll be adding more functions and updating it.
 
-# Commands
+Commands:-
 
 1) "hi tony" -  wake up call after executing the program
 
